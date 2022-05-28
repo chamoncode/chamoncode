@@ -1,3 +1,5 @@
+![](https://github-readme-stats.vercel.app/api?username=chamoncode&show_icons=true&count_private=true)
+
 - 👋 Hi, I’m Hicham aka @chamoncode
 - 👀 I’m interested in software architecture, data and entrepreneurship
 - 🌱 I’m currently learning data science and github actions
