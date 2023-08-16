@@ -1,4 +1,6 @@
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=chamoncode&orgs=adeo&show_icons=true&count_private=true)
+-->
 
 - 👋 Hi, I’m Hicham aka @chamoncode
 - 👀 I’m interested in software architecture, data and entrepreneurship
